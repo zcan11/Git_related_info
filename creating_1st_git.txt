@@ -1,3 +1,6 @@
+see more instructions at 
+https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line
+
 1st install git
 2nd create a git repository either through terminal or via webpage interface.
 3rd gh repo create customized-repo-name
