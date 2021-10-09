@@ -1,0 +1,18 @@
+1st install git
+2nd create a git repository either through terminal or via webpage interface.
+3rd gh repo create customized-repo-name
+
+4th git clone https://github.com/zcan11/customized_repo_name.git
+this will clone the remote repository to the local computer as a folder
+
+5th enter the folder /customized_repo_name/
+create any coding file ending, such as test.py, *.cpp, or *.txt file
+
+6th once finish editing the file, git add test.py 
+7th the git commit test.py
+
+8th last step on local computer terminal git push 
+9th refresh remote repository webpage, test.py would be then uploaded to the webpage.
+
+10th later if there is any changes need to be done on test.py file, repeat step 5 - 9.
+
