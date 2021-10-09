@@ -1,0 +1,17 @@
+mkdir -p ~/.nano
+cd ~/.nano
+git clone --depth=1 https://github.com/scopatz/nanorc syntax_improved
+echo 'include ~/.nano/syntax_improved/*.nanorc' > ~/.nanorc
+
+  
+set tabsize 4
+set tabstospaces
+set autoindent
+set trimblanks
+set linenumbers
+set constantshow
+set titlecolor white,red
+set keycolor cyan
+set functioncolor cyan
+set numbercolor yellow
+set mouse
